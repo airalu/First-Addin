@@ -1,0 +1,7 @@
+D:\work\just for me\MyFirstAddin\MyFirstAddin\bin\Debug\MyFirstAddin.dll
+D:\work\just for me\MyFirstAddin\MyFirstAddin\bin\Debug\MyFirstAddin.pdb
+D:\work\just for me\MyFirstAddin\MyFirstAddin\bin\Debug\MyFirstAddin.xml
+D:\work\just for me\MyFirstAddin\MyFirstAddin\obj\Debug\MyFirstAddin.csprojResolveAssemblyReference.cache
+D:\work\just for me\MyFirstAddin\MyFirstAddin\obj\Debug\MyFirstAddin.csproj.ResolveComReference.cache
+D:\work\just for me\MyFirstAddin\MyFirstAddin\obj\Debug\MyFirstAddin.dll
+D:\work\just for me\MyFirstAddin\MyFirstAddin\obj\Debug\MyFirstAddin.pdb
